@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <!-- The Windows 10 2004 SDK target brings in Windows.Data.Pdf, used to render PDF pages. -->
+    <TargetFramework>net10.0-windows10.0.19041.0</TargetFramework>
+    <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>Morph</AssemblyName>
+    <RootNamespace>Morph</RootNamespace>
+    <ApplicationIcon>Assets\Morph.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <Product>Morph</Product>
+    <Description>Converts audio, video, images and PDFs locally.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Morph.png" />
+  </ItemGroup>
+
+</Project>
