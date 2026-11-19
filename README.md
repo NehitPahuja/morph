@@ -4,8 +4,11 @@ A local file converter for Windows. Drop files on the window, or right-click the
 format, and the converted files land next to the originals. Nothing is uploaded, and originals are never
 touched or overwritten (`photo.png` → `photo.webp`, then `photo (2).webp`, …).
 
-▶ **[Watch the 30-second intro](media/morph-opener.mp4)** (MP4, 1080p, with sound). The music is an
-original track composed for it, free to reuse.
+<p align="center">
+  <a href="media/morph-opener.mp4"><img src="media/morph-opener-preview.webp" width="800" alt="Morph intro: a pile of files in the wrong format is converted in the Morph window and from Explorer's right-click menu"></a>
+  <br>
+  <sub>▶ <a href="media/morph-opener.mp4">Watch the 30-second intro with sound</a> (MP4, 1080p). The music is an original track composed for it.</sub>
+</p>
 
 | You give it | You get |
 |---|---|
