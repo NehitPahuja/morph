@@ -4,6 +4,9 @@ A local file converter for Windows. Drop files on the window, or right-click the
 format, and the converted files land next to the originals. Nothing is uploaded, and originals are never
 touched or overwritten (`photo.png` → `photo.webp`, then `photo (2).webp`, …).
 
+▶ **[Watch the 30-second intro](media/morph-opener.mp4)** (MP4, 1080p, with sound). The music is an
+original track composed for it, free to reuse.
+
 | You give it | You get |
 |---|---|
 | Audio (mp3, wav, flac, m4a, ogg, opus, wma, aiff, …) | MP3, AAC (m4a), Opus, OGG, FLAC, WAV |
